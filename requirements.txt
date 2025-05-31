@@ -1,0 +1,5 @@
+minio
+polygon-api-client
+pandas
+pyarrow
+s3fs
