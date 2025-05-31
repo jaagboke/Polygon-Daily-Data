@@ -57,4 +57,4 @@ This project is an end-to-end data engineering solution designed to extract, sto
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/Polygon-Daily-Data.git
+   git clone https://github.com/jaagboke/Polygon-Daily-Data.git
