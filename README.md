@@ -6,7 +6,8 @@ This project is an end-to-end data engineering solution designed to extract, sto
 
 ## 🧱 Architecture
 
-![Architecture Diagram](./4f13297c-ed59-4795-a6ab-dc6ededcab29.png)
+![image](https://github.com/user-attachments/assets/1d8009d3-3b82-4e9b-b788-68f7d6b9c874)
+
 
 ---
 
@@ -44,5 +45,16 @@ This project is an end-to-end data engineering solution designed to extract, sto
 
 ---
 
-## 📂 Project Structure
+## 🎯 Objectives
 
+- Automate ingestion of daily financial data.
+- Build a robust data pipeline using modern cloud tools.
+- Apply scalable data transformations in Databricks.
+- Centralize cleansed data in SQL DB for downstream reporting.
+- Visualize key metrics in Power BI dashboards.
+
+## 🧪 How to Run (Dev Setup)
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/yourusername/Polygon-Daily-Data.git
